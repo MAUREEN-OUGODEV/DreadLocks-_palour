@@ -185,13 +185,8 @@ transform: scale(1.1);
 }
 
 .btn button{
-    padding: 1rem 3rem 1rem 3rem;
-    background-color: transparent;
-    color: aliceblue;
-    border-radius: 1rem 1rem 1rem 1rem;
-    box-shadow:  0rem 0.5rem 0.5rem 0rem white;
-    margin-top: 10%;
-    margin-left: 50%;
+   
+   
 }
 .footer{
     display: flex;
