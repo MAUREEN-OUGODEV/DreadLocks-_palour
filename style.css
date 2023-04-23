@@ -1,0 +1,216 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    /* box-sizing: border-box; */
+  }
+  
+.nabar{
+    display: flex;
+    position: absolute;
+   
+    font-weight: bold;
+    padding: 2rem;
+   
+
+}
+.nav1{
+    color: #736002;
+    font-size: 20px;
+}
+.nav2{
+    color:#067302 ;
+}
+
+.image{
+   display: flex;
+
+}
+.image > img{
+    height: 5rem;
+}
+.nabar ul li{
+     float: left;
+    margin-left: 10rem;
+    list-style: none; 
+color: rgb(248, 244, 247);
+     font-weight: 1rem; 
+    font-size: 20px ;
+   
+ 
+    
+}
+.nabar ul li:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    text-decoration: underline;
+}
+.home{
+    background-image: url(./images/unsplash2\ 1.png);
+  overflow-y: hidden;
+    background-size: cover;
+    background-position: center;
+    color: rgb(244, 245, 242);
+  height:700px
+    
+    
+   
+}
+ .landing{
+   
+    height: 60rem;
+    background-size: cover;
+    
+}
+.page{
+    
+    padding-top: 20rem;
+      text-align: center;
+     font-size: 1.5rem;
+  
+
+}
+.page h1 p
+{
+    text-align: center;
+     
+    margin-bottom: 15rem;
+   
+}
+.butn{
+    margin: 2rem;
+}
+ .butn button{
+    
+    margin-bottom: 15%;
+    font-size: 1.5rem;
+    padding: 1rem 2rem 1rem 2rem;
+    background-color: grey;
+    color: rgb(240, 244, 240); 
+    border-radius: 1rem;
+    
+
+}
+
+.landscape{
+    background-color: black;
+}
+.heading{
+color: antiquewhite;
+text-align: center;
+padding-top: 2rem;
+font-weight: bolder;
+font-size: 3rem;
+}
+
+.pictureone{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}
+.pictureone :hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.middlePage h1{
+    text-align: center;
+    margin-top: 2%;
+}
+ .scape img{
+    margin-left: 10%;
+    border-radius: 20px;
+    height: 30rem;
+    width: 25rem;
+} 
+.seemore{
+  margin-left:45%;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+  
+ 
+}
+
+.imageone h3{
+    margin-top:10px;
+    margin-left: 20%;
+
+
+}
+.imageone img{
+border-radius: 20px;
+height: 30rem;
+width: 90%;
+}
+.pictureone :hover{
+cursor: pointer;
+transform: scale(1.1);
+}
+.picturetwo{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 5%;
+}
+.bookNow{
+    margin: 3%;
+    margin-left: 30%;
+}
+
+
+.discount{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    background-color: black;
+    color: aliceblue;
+    height: 40rem;
+
+}
+.photo2 img{
+    margin-left: 1rem;
+    height: 30rem;
+    margin-top: 1rem;
+    border-radius: 2rem;
+
+}
+.form{
+    padding-top:5rem ;
+    margin-left: 5%;
+}
+.form input{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    padding: 1rem 2rem 1rem 2rem;
+    border-radius: 1rem;
+    background-color: transparent;
+    color: aliceblue;
+}
+
+.btn button{
+    padding: 1rem 3rem 1rem 3rem;
+    background-color: transparent;
+    color: aliceblue;
+    border-radius: 1rem 1rem 1rem 1rem;
+    box-shadow:  0rem 0.5rem 0.5rem 0rem white;
+    margin-top: 10%;
+    margin-left: 50%;
+}
+.footer{
+    display: flex;
+    padding: 5rem;
+  
+   background-color: black;
+   color: aliceblue;
+   
+}
+.company ul{
+    list-style: none;
+    margin-left: 20rem;
+}
+.company ul li{
+    list-style: none;
+    font-size: 20px;
+}
+.iconf{
+    font-size: 30px;
+    margin-left: 10%;
+}
+
