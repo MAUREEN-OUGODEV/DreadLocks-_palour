@@ -184,9 +184,8 @@ transform: scale(1.1);
     color: aliceblue;
 }
 
-.btn button{
-   
-   
+ button{
+  margin-left: 200%;
 }
 .footer{
     display: flex;

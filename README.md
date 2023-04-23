@@ -17,7 +17,8 @@
 # Livelink
 *  Live link to view the project <a href="https://stellar-lolly-07b557.netlify.app/">DreadLocks Palour</a>
 # Screenshots:
-<img src="./screenshot.png" alt="screenshot" />
+<img src="./" alt="screenshot" />
+
 
  MIT License
 
